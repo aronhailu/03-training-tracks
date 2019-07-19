@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Aron Hailu
 
-Track Name: 
+Track Name: Backend
 
-Track Description: 
+Track Description: Node.js
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
